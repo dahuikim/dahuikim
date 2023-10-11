@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 안녕하세요! 데이터 사이언티스트를 꿈꾸는 김다희입니다.
 인공지능, 프론트엔드, 빅데이터에 관심이 많습니다! 
 
+<br/><br/>
 
 ## 🛠Used tools&Skill🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -36,11 +37,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
+<br/><br/>
 
 ## 😄About me😄
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
+<br/><br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dahuikim&count_private=true&show_icons=true&theme=solarized-light)
+
+<br/><br/>
 
 ## 🏆Contest
 | Date      	| Administration 	    | Contest Name                                	| Award 	  |
