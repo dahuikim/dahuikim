@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heeda's%20Github&fontSize=90" />
 
 ## ✨Introduction✨
-안녕하세요! 데이터 사이언티스트를 꿈꾸는 김다희입니다.
+안녕하세요! 데이터 사이언티스트를 꿈꾸는 김다희입니다.<br>
 인공지능, 프론트엔드, 빅데이터에 관심이 많습니다! 
 
 <br/><br/>
