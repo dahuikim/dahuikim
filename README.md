@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heeda's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Heeda's%20Github&fontSize=90&fontColor=white" />
 
 ## ✨Introduction✨
 안녕하세요! 데이터 사이언티스트를 꿈꾸는 김다희입니다.
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 
-## About me
+## 😄About me😄
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dahuikim&count_private=true&show_icons=true&theme=solarized-light)
