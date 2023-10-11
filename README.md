@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 ## 😄About me😄
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
+
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dahuikim&count_private=true&show_icons=true&theme=solarized-light)
 
 ## 🏆Contest
