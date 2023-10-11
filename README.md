@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=%2399CCFF&height=200&section=header&text=Heeda's%20Github&fontSize=90&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heeda's%20Github&fontSize=90" />
 
 ## ✨Introduction✨
 안녕하세요! 데이터 사이언티스트를 꿈꾸는 김다희입니다.
