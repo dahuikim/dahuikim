@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 
 ## About me
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dahuikim&count_private=true&show_icons=true&theme=solarized-light)
+
 </div>
