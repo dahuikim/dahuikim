@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heeda's%20Github&fontSize=90" />
 
-## Introduction
+## ✨Introduction✨
 안녕하세요! 데이터 사이언티스트를 꿈꾸는 김다희입니다.
 인공지능, 프론트엔드, 빅데이터에 관심이 많습니다! 
 
-## Used tools&Skill
+## 🛠Used tools&Skill🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -37,4 +37,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dahuikim&count_private=true&show_icons=true&theme=solarized-light)
 
+## 🏆Contest
+| Date 	| Administration 	| Contest Name 	| Award 	|
+| 2022.08.30 	| 한국데이터산업진흥원 	| 현장 문제해결 AI 빅데이터 전문가 과정 	| 장려상 	|
 </div>
