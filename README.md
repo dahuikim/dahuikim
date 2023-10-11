@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dahuikim&count_private=true&show_icons=true&theme=solarized-light)
 
 ## 🏆Contest
-| Date 	| Administration 	| Contest Name 	| Award 	|
+| Date      	| Administration 	    | Contest Name                      	| Award 	|
+| ----------- | ----------------- 	| ----------------------------------	| ----- 	|
 | 2022.08.30 	| 한국데이터산업진흥원 	| 현장 문제해결 AI 빅데이터 전문가 과정 	| 장려상 	|
+
+
 </div>
