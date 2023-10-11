@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heeda's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=%2399CCFF&height=200&section=header&text=Heeda's%20Github&fontSize=90&fontColor=white" />
 
 ## ✨Introduction✨
 안녕하세요! 데이터 사이언티스트를 꿈꾸는 김다희입니다.
@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 | 2023.07.15 	| 인공지능 연합동아리 TAVE| TAVE 11기 컨퍼런스                           | 참가	    |
 | 2023.09.01 	| SK텔레콤           	| SK텔레콤 FLY AI Challenger 3기 프로젝트 	      | 우수상 	  |
 | 2023.09.08 	| SK텔레콤, 하나금융그룹	| TECH4GOOD 해커톤 	                            | 우수상 	  |
+
+</div>
 
 
 
