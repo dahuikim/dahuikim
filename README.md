@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ## 😄About me😄
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">(https://www.notion.so/1153a72089d9405392457574f056d9b3)
 
 <br/><br/>
 
